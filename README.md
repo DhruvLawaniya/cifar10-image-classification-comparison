@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16-orange)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-1.5.1-f7931e)
-![License](https://img.shields.io/badge/license-MIT-green)
+
 
 ## Overview
 
