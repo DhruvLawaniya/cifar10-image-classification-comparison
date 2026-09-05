@@ -1,6 +1,9 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 <<<<<<< HEAD
@@ -121,6 +124,9 @@ at final training time, despite being the most complex architecture to tune.
 ```
 =======
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -151,6 +157,10 @@ per-class precision/recall/F1, and (for the CNN) macro-averaged ROC-AUC.
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> 6103c9e1b55ef9dfd8e40a93ed3500c973743e0e
+>>>>>>> Stashed changes
 =======
 >>>>>>> 6103c9e1b55ef9dfd8e40a93ed3500c973743e0e
 >>>>>>> Stashed changes
@@ -168,10 +178,13 @@ The dataset is a CIFAR-10 subset provided as `.npy` files, expected at:
 ```
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 This data is coursework-provided and is **not included** in this repository.
 If you have access to the original CIFAR-10 dataset, you can regenerate equivalent
 `.npy` files with `numpy.save`.
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 <<<<<<< HEAD
@@ -183,6 +196,9 @@ If you have access to the original CIFAR-10 dataset, you can regenerate equivale
 `.npy` files with `numpy.save`.
 >>>>>>> 6103c9e1b55ef9dfd8e40a93ed3500c973743e0e
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -195,8 +211,11 @@ pip install -r requirements.txt
 ```
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 <<<<<<< HEAD
@@ -204,6 +223,9 @@ pip install -r requirements.txt
 
 >>>>>>> 6103c9e1b55ef9dfd8e40a93ed3500c973743e0e
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -217,7 +239,10 @@ Requires Python 3.12.
    ```
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 <<<<<<< HEAD
@@ -254,6 +279,9 @@ Artificial intelligence tools (ChatGPT, Gemini) were used to help structure code
 MIT — see [choosealicense.com](https://choosealicense.com/) if you'd like a different license.
 =======
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -282,6 +310,10 @@ CNN architecture adapted from Ajala, S. (2021), *Convolutional Neural Network
 Implementation for Image Classification using CIFAR-10 Dataset*, ResearchGate.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> 6103c9e1b55ef9dfd8e40a93ed3500c973743e0e
+>>>>>>> Stashed changes
 =======
 >>>>>>> 6103c9e1b55ef9dfd8e40a93ed3500c973743e0e
 >>>>>>> Stashed changes
