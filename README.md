@@ -150,8 +150,4 @@ Requires Python 3.12.
   residual connections.
 
 
-## Acknowledgements
-CNN architecture adapted from Ajala, S. (2021), *Convolutional Neural Network Implementation for
-Image Classification using CIFAR-10 Dataset*, ResearchGate. Full reference list in `report.pdf`.
-Artificial intelligence tools (ChatGPT, Gemini) were used to help structure code and refine writing.
 
