@@ -1,5 +1,8 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 # CIFAR-10 Image Classification: PCA+SVM vs. MLP Ensemble vs. CNN
 
@@ -117,6 +120,9 @@ at final training time, despite being the most complex architecture to tune.
 └── README.md
 ```
 =======
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 # CIFAR-10 Image Classification: Comparing PCA+SVM, MLP Ensembles, and CNNs
 
@@ -144,6 +150,10 @@ Each model is evaluated with validation/test accuracy, confusion matrices,
 per-class precision/recall/F1, and (for the CNN) macro-averaged ROC-AUC.
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> 6103c9e1b55ef9dfd8e40a93ed3500c973743e0e
+>>>>>>> Stashed changes
 =======
 >>>>>>> 6103c9e1b55ef9dfd8e40a93ed3500c973743e0e
 >>>>>>> Stashed changes
@@ -157,10 +167,13 @@ The dataset is a CIFAR-10 subset provided as `.npy` files, expected at:
 ./Assignment2Data/y_test.npy
 ```
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 This data is coursework-provided and is **not included** in this repository.
 If you have access to the original CIFAR-10 dataset, you can regenerate equivalent
 `.npy` files with `numpy.save`.
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 Shapes: `X_train (50000, 32, 32, 3)`, `y_train (50000,)`, `X_test (10000, 32, 32, 3)`,
 `y_test (10000,)`. This coursework-provided data is **not included** in this repository.
@@ -169,6 +182,9 @@ This data is coursework-provided and is **not included** in this repository.
 If you have access to the original CIFAR-10 dataset, you can regenerate equivalent
 `.npy` files with `numpy.save`.
 >>>>>>> 6103c9e1b55ef9dfd8e40a93ed3500c973743e0e
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 ## Setup
@@ -178,12 +194,18 @@ source venv/bin/activate     # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 =======
 
 >>>>>>> 6103c9e1b55ef9dfd8e40a93ed3500c973743e0e
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Requires Python 3.12.
 
@@ -194,7 +216,10 @@ Requires Python 3.12.
    jupyter notebook notebook.ipynb
    ```
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 3. Section 4 ("Final models") trains each model independently with its best hyperparameters
    and does not depend on the tuning cells having been run first — this is the fastest path
@@ -228,6 +253,9 @@ Artificial intelligence tools (ChatGPT, Gemini) were used to help structure code
 ## License
 MIT — see [choosealicense.com](https://choosealicense.com/) if you'd like a different license.
 =======
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 3. Section 4 ("Final models") trains each model independently with its best
    hyperparameters and does not depend on the tuning cells having been run —
@@ -253,6 +281,10 @@ MIT — see [choosealicense.com](https://choosealicense.com/) if you'd like a di
 CNN architecture adapted from Ajala, S. (2021), *Convolutional Neural Network
 Implementation for Image Classification using CIFAR-10 Dataset*, ResearchGate.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> 6103c9e1b55ef9dfd8e40a93ed3500c973743e0e
+>>>>>>> Stashed changes
 =======
 >>>>>>> 6103c9e1b55ef9dfd8e40a93ed3500c973743e0e
 >>>>>>> Stashed changes
