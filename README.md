@@ -102,17 +102,6 @@ expectations. Spatially-aware convolutional filters consistently outperform mode
 spatial structure by flattening pixels. Notably, the CNN is also the *fastest* of the three to run
 at final training time, despite being the most complex architecture to tune.
 
-## Repository structure
-```
-├── notebook.ipynb              # Main analysis notebook (code)
-├── report.pdf                  # Full written report
-├── Assignment2Data/            # Not included — see Data section
-├── assets/                     # README images (see list below)
-├── figs/                       # Notebook-generated plots
-├── cnn_random_search/          # Keras Tuner search results (generated)
-├── requirements.txt
-└── README.md
-```
 
 ## Data
 The dataset is a CIFAR-10 subset provided as `.npy` files, expected at:
